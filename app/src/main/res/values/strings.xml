@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChallengeTwoExample</string>
+    <string name="celana_olahraga_pria_pendek">Celana Olahraga Pria Pendek</string>
+    <string name="klaim_koin_disini">Klaim koin disini</string>
+    <string name="peduli_lindungi">Peduli Lindungi</string>
+    <string name="pulsa_tagihan_hiburan"><![CDATA[Pulsa, Tagihan & Hiburan]]></string>
+    <string name="shopee_mall">Shopee Mall</string>
+    <string name="shopee_supermarket">Shopee Supermarket</string>
+    <string name="gratis_ongkir_voucher"><![CDATA[Gratis Ongkir & Voucher]]></string>
+    <string name="shopee_games">Shopee Games</string>
+    <string name="bayar_di_tempat">Bayar Di Tempat</string>
+    <string name="shopeefood">ShopeeFood</string>
+    <string name="lihat_lainnya">Lihat Lainnya</string>
+    <string name="rp62_500">Rp62.500</string>
+    <string name="rp_48_000">Rp.48.000</string>
+    <string name="_30_terjual">30 TERJUAL</string>
+    <string name="_236_terjual">236 TERJUAL</string>
+    <string name="feed">Feed</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="shopee_live">Shopee Live</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="saya">Saya</string>
+</resources>
